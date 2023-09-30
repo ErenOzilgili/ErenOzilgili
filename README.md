@@ -1,4 +1,6 @@
 ### Hi there 👋
+My name is Eren Özilgili.I am 19 years old.Currently, I am a freshman in Bilkent University.
+
 
 <!--
 **ErenOzilgili/ErenOzilgili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
