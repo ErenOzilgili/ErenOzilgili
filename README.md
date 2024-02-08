@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Eren Özilgili. I am 19 years old. Currently, I am a freshman at Bilkent University.
+My name is Eren Özilgili. I am 20 years old. Currently, I am a freshman at Bilkent University.
 
 
 <!--
