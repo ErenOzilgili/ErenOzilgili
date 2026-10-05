@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Eren Özilgili. I am 22 years old. I am a third-year student at Bilkent University. Currently, I am pursuing a double major in Computer Engineering and Mathematics. My interests include parallel programming, cryptography, machine learning, and mathematics as a whole. 
+My name is Eren Özilgili. I am 22 years old. I am a forth-year student at Bilkent University. Currently, I am pursuing a double major in Computer Engineering and Mathematics. I am interested in Cryptography, Theoretical Computer Science, and Mathematics in general.
 
 
 <!--
